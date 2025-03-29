@@ -108,7 +108,7 @@
   // 查看用戶詳情 (將在 props/emit 示例中使用)
   const viewUserDetails = (userId) => {
     console.log(`查看用戶 ID: ${userId} 的詳情`)
-    // 在真實應用中，可能會導航到詳情頁面或顯示模
+    // 在真實應用中，可能會導航到詳情頁面或顯
   }
   
  
